@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
             buttonPower, buttonEqual, buttonClear;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) { 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -170,3 +170,8 @@ public class MainActivity extends AppCompatActivity {
         return number;
     }
 }
+
+
+
+
+// This is our group work
